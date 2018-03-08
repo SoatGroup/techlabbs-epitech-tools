@@ -10,7 +10,7 @@ Guide pour mettre en place son environnement
  * Ou un editeur de texte : (ex : vs code : https://code.visualstudio.com/download)
 ## Langages et plateformes:
  * Java 8 (Oracle JDK) : http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
-    * Make sure to to have this into your path, and a JAVA_HOME env var configured
+    * ajouter dans le path et configurer la variable d'environnement JAVA_HOME
  * Python (Déjà installé sur la plupart des distro linux)
  * Scala : https://www.scala-lang.org/download/install.html
 ## Outil “Big Data”
